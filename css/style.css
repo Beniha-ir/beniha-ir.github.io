@@ -12593,6 +12593,11 @@ textarea.form-control {
     font-size: 13px;
     color: #d9d9d9;
 }
+.about-author .descd h3 {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0 auto;
+}
 
 .about-author .desc h3 {
     font-size: 20px;
