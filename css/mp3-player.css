@@ -1,0 +1,27 @@
+
+.audio-wrapper {
+  text-align: center;
+}
+
+audio {
+  width: 400px;
+  max-width: 90%;
+  border-radius: 10px;
+}
+
+.download-btn {
+  display: inline-block;
+  margin-top: 10px;
+  background-color: #1db954;
+  color: white;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-family: sans-serif;
+  font-size: 14px;
+  transition: background 0.2s ease;
+}
+
+.download-btn:hover {
+  background-color: #17a64a;
+}
