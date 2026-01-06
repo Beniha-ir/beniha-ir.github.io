@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Figures on شهر بن</title>
+    <link>http://localhost:1313/figures/</link>
+    <description>Recent content in Figures on شهر بن</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa</language>
+    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/figures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>حسینقلی خان امان بنی</title>
+      <link>http://localhost:1313/figures/hoseingholi_khan_aman/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/figures/hoseingholi_khan_aman/</guid>
+      
+        <description>حسینقلی خان امان شاعر و عارف اهل شهر بن و همدوره حکومت قاجاریه است.</description>
+      
+    </item>
+    
+    <item>
+      <title>میرزا حبیب دستان بنی</title>
+      <link>http://localhost:1313/figures/mirzahabib/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/figures/mirzahabib/</guid>
+      
+        <description>مبرزا حبیب دستان بنی (1253–1326 هـ.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

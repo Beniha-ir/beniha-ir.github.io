@@ -37,7 +37,7 @@ document.addEventListener(
   false,
 );
 
-window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', switchTheme, false);
+window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', switchTheme, false);
 
 const currThemeStyle = getStoredThemeStyle();
 if (currThemeStyle) {
