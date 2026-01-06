@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:43617/tr/categories/</loc>
+    <loc>http://localhost:43359/tr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:43617/categories/"
+                href="http://localhost:43359/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:43617/en/categories/"
+                href="http://localhost:43359/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:43617/tr/categories/"
+                href="http://localhost:43359/tr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:43617/tr/series/</loc>
+    <loc>http://localhost:43359/tr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:43617/series/"
+                href="http://localhost:43359/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:43617/en/series/"
+                href="http://localhost:43359/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:43617/tr/series/"
+                href="http://localhost:43359/tr/series/"
                 />
   </url><url>
-    <loc>http://localhost:43617/tr/tags/</loc>
+    <loc>http://localhost:43359/tr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:43617/tags/"
+                href="http://localhost:43359/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:43617/en/tags/"
+                href="http://localhost:43359/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:43617/tr/tags/"
+                href="http://localhost:43359/tr/tags/"
                 />
   </url><url>
-    <loc>http://localhost:43617/tr/</loc>
+    <loc>http://localhost:43359/tr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:43617/"
+                href="http://localhost:43359/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:43617/en/"
+                href="http://localhost:43359/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:43617/tr/"
+                href="http://localhost:43359/tr/"
                 />
   </url>
 </urlset>
