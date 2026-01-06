@@ -1,0 +1,95 @@
+{{ define "main" }}
+
+<!-- Home page intro content -->
+{{ if .Content }}
+<div class="post home-intro">
+  <div class="post__content">
+    {{ .Content }}
+  </div>
+</div>
+{{ end }}
+
+{{ $sections := slice "gallery" "articles" "books" "posts" }}
+
+{{ range $sections }}
+  {{ $section := . }}
+  {{ $pages := first 4 (sort (where site.RegularPages "Section" $section) "Date" "desc") }}
+
+  {{ if gt (len $pages) 0 }}
+
+  <!-- Section wrapper -->
+  <section class="home-section home-section--{{ $section }}">
+
+    <!-- Section header -->
+    <header class="home-section__header">
+      <h2 class="home-section__title">{{ i18n $section }}</h2>
+      <hr class="home-section__divider">
+    </header>
+
+    <!-- Grid layout -->
+    <div class="post-grid">
+
+      {{ range $pages }}
+      <article class="post-card">
+
+        {{ if .Params.featured_image }}
+        <a href="{{ .RelPermalink }}">
+          <img
+            class="post-card__banner"
+            src="{{ .Params.featured_image | relURL }}"
+            alt="Banner image"
+            loading="lazy" />
+        </a>
+
+        {{ else if .Params.thumbnail }}
+        <a href="{{ .RelPermalink }}">
+          <img
+            class="post-card__banner"
+            src="{{ .Params.thumbnail | relURL }}"
+            alt="Thumbnail image"
+            loading="lazy" />
+        </a>
+        {{ end }}
+
+        <div class="post-card__content">
+          <h3 class="post-card__title">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h3>
+        </div>
+
+        <footer class="post-card__footer">
+          {{ if eq site.Language.Lang "fa" }}
+            <span class="post-card__date">
+              {{ partial "jDate.html" .Params.Date }}
+            </span>
+          {{ else }}
+            <span class="post-card__date">
+              {{ .Date.Format "Jan 2, 2006" }}
+            </span>
+          {{ end }}
+
+          {{ with .Params.author }}
+            <span class="post-author">
+              | {{ i18n "callAuthor" }} {{ . }}
+            </span>
+          {{ end }}
+        </footer>
+
+      </article>
+      {{ end }}
+
+    </div>
+
+    <!-- View all link -->
+    <div class="home-section__footer">
+      <a class="home-section__link" href="{{ "/" | relLangURL }}{{ $section }}/">
+        → {{ i18n "view_all" }} {{ i18n $section }}
+      </a>
+    </div>
+
+  </section>
+
+  {{ end }}
+{{ end }}
+
+{{ end }}

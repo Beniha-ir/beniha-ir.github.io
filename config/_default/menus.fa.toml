@@ -1,0 +1,58 @@
+  [[main]]
+  name = "خانه"
+  identifier = "main"
+  weight = 100
+  url = "/fa/"
+
+  
+  
+  [[main]]
+  name = "مقالات"
+  weight = 200
+  identifier = "articles"
+  url = "/articles/"
+
+  [[main]]
+  name = "کتاب ها"
+  weight = 300 
+  identifier = "books"
+  url = "/books/"
+
+  [[main]]
+  name = "فرهنگی هنری"
+  weight = 400 
+  identifier = "culture"
+  url = "/culture/"
+
+
+
+  [[main]]
+  name = "چهره ها و مشاهیر"
+  weight = 600 
+  identifier = "figures"
+  url = "/figures/"
+
+[[main]]
+  name = "آلبوم تصاویر"
+  weight = 650
+  identifier = "gallery"
+  url = "/gallery/"
+
+  [[main]]
+  name = "بین اوشاخلاری"
+  weight = 700
+  identifier = "posts"
+  url = "/posts/"
+
+
+[[main]]
+  name = "درباره شهر"
+  weight = 800
+  identifier = "about"
+  url = "/about/"
+
+  [[main]]
+  name = " فرم تماس"
+  weight = 900
+  identifier = "contact"
+  url = "/contact/"

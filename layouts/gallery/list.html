@@ -1,0 +1,76 @@
+
+
+{{ define "main" }}
+
+<!-- <h1>{{ .Title }}</h1>
+<p>{{ .Description }}</p> -->
+
+<div class="post-grid">
+	{{ $perPage := .Site.Params.npostsperpage | default 10 }}
+	{{ $paginator := .Paginate (where .Data.Pages "Type" "gallery") $perPage }}
+
+	{{ range .Paginator.Pages }}
+	<div class="post-card">
+		{{ if .Params.featured_image }}
+
+		<a href="{{ .RelPermalink }}">
+
+			<img class="post-card__banner" src="{{ .Params.featured_image | relURL }}" alt="Banner image"
+				loading="lazy" />
+
+		</a>
+
+		{{ else if .Params.thumbnail }}
+
+		<a href="{{ .RelPermalink }}">
+
+			<img class="post-card__banner" src="{{ .Params.thumbnail | relURL }}" alt="Thumbnail image"
+				loading="lazy" />
+
+		</a>
+
+		{{ end }}
+
+		<div class="post-card__content">
+
+			<h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+
+			<!-- {{ if not .Params.featured_image }}
+			<p>{{ .Summary | markdownify }}</p>
+			{{end}} -->
+
+		</div>
+
+		<div class="post-card__footer">
+
+			{{ if eq .Site.Language.Lang "fa" }}
+
+			<span class="post-card__date">{{ partial "jDate.html" .Params.Date }}</span>
+
+			{{ else }}
+
+			<span class="post-card__date">{{ .Date.Format "Jan 2, 2006" }}</span>
+
+			{{ end }}
+
+			{{ with .Params.author }}
+			<span class="post-author"> | {{ i18n "callAuthor" }} {{ . }}</span>
+
+			<!-- <div class="post-author">{{ i18n "callAuthor" }} {{ . }}</div> -->
+
+
+			{{ end }}
+
+		</div>
+	</div>
+	{{ end }}
+</div>
+
+
+<div class="pagination">
+
+	{{ template "partials/pagination.html" . }}
+
+</div>
+
+{{ end }}

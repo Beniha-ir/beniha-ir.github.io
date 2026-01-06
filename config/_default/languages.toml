@@ -1,0 +1,17 @@
+[fa]
+Title = "شهر بن"
+description = "استان چهارمحال و بختیاری \n (این وبسایت در دست تکمیل است، \n برای همکاری به بخش فرم تماس مراجعه کنید)"
+
+contentDir = "content/farsi" 
+weight = 1
+LanguageDirection = "rtl" 
+LanguageName = "فارسی"
+
+[en]
+Title = "Ben City"
+#description = ""
+weight = 1
+LanguageName = "English"
+contentDir = "content/english"
+
+

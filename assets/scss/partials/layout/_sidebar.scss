@@ -1,0 +1,94 @@
+.sidebar__introduction-profileimage {
+  width: 100%;            /* scales with parent container */
+  max-width: 200px;      /* optional: prevent it from getting too big */
+  aspect-ratio: 1 / 1;   /* keeps it square for perfect circle */
+  border-radius: 20%;    /* makes it circular */
+  object-fit: cover;     /* ensures image fills the circle */
+  margin-top: 20%;
+}
+
+
+
+
+.sidebar__latest-posts {
+	margin-top: 2rem;
+	padding: 0rem 8rem 0rem 0rem;
+
+}
+
+.sidebar__latest-posts h4 {
+	margin-bottom: .1rem;
+	font-size: smaller;
+	// font-weight: 600;
+}
+
+.sidebar__latest-posts ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.sidebar__latest-posts li {
+	margin-bottom: 0.1rem;
+	font-size: small;
+}
+
+.sidebar__latest-posts a {
+	text-decoration: none;
+	// color: #38393a;
+	transition: 0.2s;
+}
+
+.sidebar__latest-posts a:hover {
+	text-decoration: underline;
+}
+
+.post-date {
+	display: block;
+	font-size: 0.75rem;
+	color: #6b7280;
+}
+
+
+.tag-cloud {
+	// color: t('primary');
+	padding: 5rem 0rem 5rem 0rem;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 2rem;
+	justify-content: center;
+	/* Center tags in sidebar */
+}
+
+.tag-badge {
+	// background: t('primary');
+	// background: #e5e7eb;
+	padding: 0rem 0rem 0rem 0rem;
+	border-radius: 9px;
+	text-decoration: none;
+	// color: #1f2937;
+	transition: all 0.2s ease;
+	display: inline-flex;
+	justify-content: center;
+	/* Center text inside badge */
+	align-items: center;
+	font-weight: 500;
+	text-align: center;
+	/* Ensure text stays centered */
+	min-width: 3rem;
+	/* Prevent too-narrow pills */
+}
+
+.tag-badge:hover {
+	background: t('primary');
+
+	// background: #e9eaec;
+	color: #fff;
+}
+
+.count {
+	font-size: 0.75em;
+	opacity: 0.7;
+	margin-left: 0.3rem;
+}
+
