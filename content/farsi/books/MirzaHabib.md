@@ -9,8 +9,8 @@ featured_image: "/images/books/MirzaHabib.jpg"
 author:  علی‌اصغر حیدری بنی
 
 tags:
-  - کتاب
-
+  - میرزا حبیب دستان بنی
+  
 ---
 
 ---

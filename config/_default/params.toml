@@ -28,8 +28,8 @@ listDateFormat = "2/1/2006"
 # Read More links for truncated summaries
 readMore = true
 postSectionName = "blog"
-relatedPosts = false
-numberOfRelatedPosts = 3
+relatedPosts = true
+numberOfRelatedPosts = 6
 npostsperpage = 20
 
 defaultTheme = "light"

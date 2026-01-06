@@ -5,8 +5,7 @@ permalink: /MirzaHabib
 featured_image: "/images/figures/MirzaHabib.jpg"
 
 tags:
-  - مشاهیر
-  - میرزا حبیب دستان بنی
+    - میرزا حبیب دستان بنی
 
 ---
 

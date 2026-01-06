@@ -5,7 +5,6 @@ permalink: /Hoseingholi_Khan_Aman
 featured_image: "/images/figures/Hoseingholi_Khan_Aman.png"
 
 tags:
-  - مشاهیر
   - حسینقلی خان امان بنی
 
 ---

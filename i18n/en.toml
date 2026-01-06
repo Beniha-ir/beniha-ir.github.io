@@ -82,3 +82,6 @@ other = "Gallery"
 
 [view_all]
 other = "View all"
+
+[related_posts]
+other = "Related Posts"
