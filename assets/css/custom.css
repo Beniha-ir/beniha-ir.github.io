@@ -2,7 +2,7 @@
 
 /* Default scale */
 body {
-    transform: scale(0.85);
+    transform: scale(1.1);
     /* Zoom in by 10% */
     transform-origin: top;
     /* Adjust the zoom origin */
@@ -80,7 +80,7 @@ body {
     transition: transform 0.2s;
     padding: 0;
 
-    aspect-ratio: 10 / 8;
+    aspect-ratio: 10 / 10;
     /* makes the whole card rectangular */
     justify-content: space-between;
 
@@ -121,7 +121,7 @@ body {
 
 .post-card__banner {
     width: 100%;
-    aspect-ratio: 16 / 9;
+    aspect-ratio: 3 / 2;
     /* or 4/3, 3/2, etc. */
     object-fit: cover;
     display: block;

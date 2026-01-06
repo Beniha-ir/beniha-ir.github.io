@@ -13,7 +13,7 @@
 
 {{ range $sections }}
   {{ $section := . }}
-  {{ $pages := first 4 (sort (where site.RegularPages "Section" $section) "Date" "desc") }}
+  {{ $pages := first 5 (sort (where site.RegularPages "Section" $section) "Date" "desc") }}
 
   {{ if gt (len $pages) 0 }}
 

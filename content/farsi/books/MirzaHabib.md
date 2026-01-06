@@ -4,7 +4,7 @@ title: "برش دینی زندگی میرزاحبیب دستان بنی"
 date: 2024-01-01
 permalink: /books/MirzaHabib
 
-featured_image: "/images/books/برش دینی زندگی میرزاحبیب دستان بنی.jpg"
+featured_image: "/images/books/MirzaHabib.jpg"
 
 author:  علی‌اصغر حیدری بنی
 

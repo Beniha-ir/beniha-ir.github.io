@@ -40,7 +40,12 @@
             <span class="post__meta-text">{{ i18n "reading_time" .ReadingTime }}</span>
           </li>
         </ul>
+
+
       {{ end }}
+
+
+   
 
       {{- partial "expirationnote.html" . -}}
 
@@ -65,6 +70,8 @@
       {{- if (eq .Site.Params.mermaid.enable true) -}}
         {{- partial "mermaid.html" . -}}
       {{- end -}}
+
+
     </div>
     <div class="post__footer">
       {{ with .Page.Params.Categories }}
@@ -110,4 +117,5 @@
 
     {{ end }}
   </div>
+
 {{ end }}
