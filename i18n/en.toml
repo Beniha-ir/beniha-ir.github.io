@@ -66,3 +66,19 @@ other = "Latest Posts"
 
 [tableOfContents]
 other = "TableOfContents"
+
+
+[posts]
+other = "Posts"
+
+[books]
+other = "Books"
+
+[articles]
+other = "Articles"
+
+[gallery]
+other = "Gallery"
+
+[view_all]
+other = "View all"

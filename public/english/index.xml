@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>شهر بن</title>
-    <link>http://localhost:1313/english/</link>
+    <link>http://localhost:43617/english/</link>
     <description>Recent content on شهر بن</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
-    <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/english/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:43617/english/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/english/contact/</link>
+      <link>http://localhost:43617/english/contact/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/contact/</guid>
+      <guid>http://localhost:43617/english/contact/</guid>
       
         <description>Contact Page</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Awards</title>
-      <link>http://localhost:1313/english/awards/</link>
+      <link>http://localhost:43617/english/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/awards/</guid>
+      <guid>http://localhost:43617/english/awards/</guid>
       
         <description>Awards</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/english/archives/</link>
+      <link>http://localhost:43617/english/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/archives/</guid>
+      <guid>http://localhost:43617/english/archives/</guid>
       
         <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/english/about/</link>
+      <link>http://localhost:43617/english/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/about/</guid>
+      <guid>http://localhost:43617/english/about/</guid>
       
         <description></description>
       

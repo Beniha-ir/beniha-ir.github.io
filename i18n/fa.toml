@@ -70,3 +70,18 @@ other = "   ببشتر    "
 
 [tableOfContents]
 other = "فهرست"
+
+[posts]
+other = "گزیده نماهنگ های گروه بچه های شهر بن"
+
+[books]
+other = "کتاب‌ها"
+
+[articles]
+other = "مقالات"
+
+[gallery]
+other = "گالری"
+
+[view_all]
+other = "مشاهده همه"
