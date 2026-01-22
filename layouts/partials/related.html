@@ -1,45 +1,38 @@
 ﻿{{ $max := .Site.Params.numberOfRelatedPosts | default 3 }}
 {{ $pages := where .Site.RegularPages "Lang" .Lang }}
 {{ $related := $pages.Related . }}
+{{ $self := . }}
 
 {{ if $related }}
   <h3 class="related-title">{{ i18n "related_posts" }}</h3>
   
-  <div class="post-grid">
+  <ul class="related-posts-list">
     {{ $count := 0 }}
     {{ range $related }}
-      {{ if and (in .RelPermalink "/farsi/") (lt $count $max) }}
+      
+      {{/* Define our conditions */}}
+      {{ $isFarsi := in .RelPermalink "/farsi/" }}
+      {{ $isBook := in .RelPermalink "/books/" }}
+      {{ $isArticle := in .RelPermalink "/articles/" }}
+
+      {{/* Logic: Must be Farsi AND (Must be Book OR Article) */}}
+      {{ if and $isFarsi (or $isBook $isArticle) (lt $count $max) (ne .Permalink $self.Permalink) }}
         
-        <div class="post-card">
-            {{ if .Params.featured_image }}
-            <a href="{{ .RelPermalink }}">
-                <img class="post-card__banner" src="{{ .Params.featured_image | relURL }}" alt="Banner image" loading="lazy" />
+        <li class="related-post-item">
+            <a href="{{ .RelPermalink }}" class="related-post-link">
+                {{ .Title }}
             </a>
-            {{ else if .Params.thumbnail }}
-            <a href="{{ .RelPermalink }}">
-                <img class="post-card__banner" src="{{ .Params.thumbnail | relURL }}" alt="Thumbnail image" loading="lazy" />
-            </a>
-            {{ end }}
-
-            <div class="post-card__content">
-                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-            </div>
-
-            <div class="post-card__footer">
+            <span class="related-post-date">
                 {{ if eq .Site.Language.Lang "fa" }}
-                <span class="post-card__date">{{ partial "jDate.html" .Params.Date }}</span>
+                    {{ partial "jDate.html" .Params.Date }}
                 {{ else }}
-                <span class="post-card__date">{{ .Date.Format "Jan 2, 2006" }}</span>
+                    {{ .Date.Format "Jan 2, 2006" }}
                 {{ end }}
-
-                {{ with .Params.author }}
-                <span class="post-author"> | {{ i18n "callAuthor" }} {{ . }}</span>
-                {{ end }}
-            </div>
-        </div>
+            </span>
+        </li>
 
         {{ $count = add $count 1 }}
       {{ end }}
     {{ end }}
-  </div>
+  </ul>
 {{ end }}

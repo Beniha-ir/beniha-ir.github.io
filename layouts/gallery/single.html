@@ -1,0 +1,61 @@
+{{ define "main" }}
+  <div
+    class="post {{ with .Site.Params.doNotLoadAnimations }} . {{ else }} animated fadeInDown {{ end }}"
+  >
+    <div class="post__content">
+      {{/* 1. HERO IMAGE: The Featured Image spans the full width */}}
+      {{- $hero := .Params.featured_image | default .Params.thumbnail -}}
+      {{ if $hero }}
+        <div class="gallery__hero">
+          <img src="{{ $hero | relURL }}" alt="{{ .Title }}" class="gallery__hero-img" />
+        </div>
+      {{ end }}
+
+      <h1>{{ title .Title }}</h1>
+      
+      {{/* Meta Info */}}
+      {{ if or (eq .Type "post") (eq .Type .Site.Params.postSectionName) }}
+        <ul class="post__meta">
+          <li class="post__meta-item">
+            <em class="fas fa-calendar-day post__meta-icon"></em>
+            <span class="post__meta-text">{{ .Date.Format "Jan 2, 2006" }}</span>
+          </li>
+          <li class="post__meta-item">
+            <em class="fas fa-camera post__meta-icon"></em>
+            <span class="post__meta-text">{{ i18n "gallery" | default "Gallery" }}</span>
+          </li>
+        </ul>
+      {{ end }}
+
+      {{/* 2. DESCRIPTION: The text content of the post */}}
+      <div class="gallery__description">
+        {{ .Content }}
+      </div>
+
+      {{/* 3. GRID: Automatically pull all images from the post's folder */}}
+      <div class="gallery__grid">
+        {{ range .Resources.ByType "image" }}
+          {{ if ne .RelPermalink (relURL $hero) }} {{/* Don't repeat the hero image in the grid */}}
+            <div class="gallery__item">
+              <a href="{{ .RelPermalink }}" target="_blank">
+                <img src="{{ .RelPermalink }}" alt="{{ .Name }}" loading="lazy" />
+              </a>
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+
+      {{- partial "series.html" . -}}
+    </div>
+
+    <div class="post__footer">
+      {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
+      {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
+    </div>
+
+    {{/* Comments Section */}}
+    {{ if and (or (eq .Type "post") (eq .Type .Site.Params.postSectionName)) (ne .Page.Params.disableComments true) }}
+        {{- if .Site.DisqusShortname -}}<div id="comment">{{ template "_internal/disqus.html" . }}</div>{{- end -}}
+    {{ end }}
+  </div>
+{{ end }}

@@ -1,7 +1,14 @@
 {{ define "main" }}
 
-<!-- <h1>{{ .Title }}</h1>
-<p>{{ .Description }}</p> -->
+<header class="section-header">
+  <h1>{{ .Title }}</h1>
+
+  {{ with .Description }}
+    <p class="section-description">{{ . }}</p>
+  {{ end }}
+
+  {{ .Content }}
+</header>
 
 <div class="post-grid">
 	{{ $perPage := .Site.Params.npostsperpage | default 10 }}
