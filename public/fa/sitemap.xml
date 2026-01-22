@@ -2,544 +2,544 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:42545/farsi/</loc>
+    <loc>http://localhost:1313/farsi/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:42545/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:42545/tr/"
+                href="http://localhost:1313/tr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:42545/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/</loc>
+    <loc>http://localhost:1313/farsi/posts/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2026-01-12/</loc>
+    <loc>http://localhost:1313/farsi/posts/2026-01-12/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2026-01-12/</loc>
+    <loc>http://localhost:1313/posts/2026-01-12/</loc>
     <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-01-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:42545/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:42545/tr/tags/"
+                href="http://localhost:1313/tr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:42545/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>http://localhost:42545/tags/%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1/</loc>
+    <loc>http://localhost:1313/tags/%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1/</loc>
     <lastmod>2026-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2026-01-03/</loc>
+    <loc>http://localhost:1313/farsi/posts/2026-01-03/</loc>
     <lastmod>2026-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2026-01-03/</loc>
+    <loc>http://localhost:1313/posts/2026-01-03/</loc>
     <lastmod>2026-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2025-12-23/</loc>
+    <loc>http://localhost:1313/farsi/posts/2025-12-23/</loc>
     <lastmod>2025-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2025-12-23/</loc>
+    <loc>http://localhost:1313/posts/2025-12-23/</loc>
     <lastmod>2025-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2025-12-16/</loc>
+    <loc>http://localhost:1313/farsi/posts/2025-12-16/</loc>
     <lastmod>2025-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2025-12-16/</loc>
+    <loc>http://localhost:1313/posts/2025-12-16/</loc>
     <lastmod>2025-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/tags/%D8%B4%D9%87%D8%B1-%D8%A8%D9%86/</loc>
+    <loc>http://localhost:1313/tags/%D8%B4%D9%87%D8%B1-%D8%A8%D9%86/</loc>
     <lastmod>2025-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2025-12-09/</loc>
+    <loc>http://localhost:1313/farsi/posts/2025-12-09/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2025-12-09/</loc>
+    <loc>http://localhost:1313/posts/2025-12-09/</loc>
     <lastmod>2025-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2025-12-05/</loc>
+    <loc>http://localhost:1313/farsi/posts/2025-12-05/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2025-12-05/</loc>
+    <loc>http://localhost:1313/posts/2025-12-05/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/tags/%D9%BE%D8%B1%D9%88%DB%8C%D9%86-%D8%A7%D8%B9%D8%AA%D8%B5%D8%A7%D9%85%DB%8C/</loc>
+    <loc>http://localhost:1313/tags/%D9%BE%D8%B1%D9%88%DB%8C%D9%86-%D8%A7%D8%B9%D8%AA%D8%B5%D8%A7%D9%85%DB%8C/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2025-11-19/</loc>
+    <loc>http://localhost:1313/farsi/posts/2025-11-19/</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2025-11-19/</loc>
+    <loc>http://localhost:1313/posts/2025-11-19/</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/tags/%DB%8C%D9%88%D8%B3%D9%81-%D8%B4%DB%8C%D8%AE%DB%8C/</loc>
+    <loc>http://localhost:1313/tags/%DB%8C%D9%88%D8%B3%D9%81-%D8%B4%DB%8C%D8%AE%DB%8C/</loc>
     <lastmod>2025-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/tags/%DA%98%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%DB%8C/</loc>
+    <loc>http://localhost:1313/tags/%DA%98%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%DB%8C/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2025-11-14/</loc>
+    <loc>http://localhost:1313/farsi/posts/2025-11-14/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2025-11-14/</loc>
+    <loc>http://localhost:1313/posts/2025-11-14/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2025-11-06/</loc>
+    <loc>http://localhost:1313/farsi/posts/2025-11-06/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2025-11-06/</loc>
+    <loc>http://localhost:1313/posts/2025-11-06/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2025-11-01/</loc>
+    <loc>http://localhost:1313/farsi/posts/2025-11-01/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2025-11-01/</loc>
+    <loc>http://localhost:1313/posts/2025-11-01/</loc>
     <lastmod>2025-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/tags/%D8%A7%D9%84%D9%87%DB%8C-%D9%82%D9%85%D8%B4%D9%87-%D8%A7%DB%8C/</loc>
+    <loc>http://localhost:1313/tags/%D8%A7%D9%84%D9%87%DB%8C-%D9%82%D9%85%D8%B4%D9%87-%D8%A7%DB%8C/</loc>
     <lastmod>2025-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2025-10-18/</loc>
+    <loc>http://localhost:1313/farsi/posts/2025-10-18/</loc>
     <lastmod>2025-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2025-10-18/</loc>
+    <loc>http://localhost:1313/posts/2025-10-18/</loc>
     <lastmod>2025-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2025-10-17/</loc>
+    <loc>http://localhost:1313/farsi/posts/2025-10-17/</loc>
     <lastmod>2025-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2025-10-17/</loc>
+    <loc>http://localhost:1313/posts/2025-10-17/</loc>
     <lastmod>2025-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/tags/%D9%85%D9%88%D9%84%D8%A7%D9%86%D8%A7/</loc>
+    <loc>http://localhost:1313/tags/%D9%85%D9%88%D9%84%D8%A7%D9%86%D8%A7/</loc>
     <lastmod>2025-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/tags/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/</loc>
+    <loc>http://localhost:1313/tags/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/</loc>
     <lastmod>2025-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2025-10-05/</loc>
+    <loc>http://localhost:1313/farsi/posts/2025-10-05/</loc>
     <lastmod>2025-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2025-10-05/</loc>
+    <loc>http://localhost:1313/posts/2025-10-05/</loc>
     <lastmod>2025-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2025-09-24/</loc>
+    <loc>http://localhost:1313/farsi/posts/2025-09-24/</loc>
     <lastmod>2025-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2025-09-24/</loc>
+    <loc>http://localhost:1313/posts/2025-09-24/</loc>
     <lastmod>2025-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2025-09-06/</loc>
+    <loc>http://localhost:1313/farsi/posts/2025-09-06/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2025-09-06/</loc>
+    <loc>http://localhost:1313/posts/2025-09-06/</loc>
     <lastmod>2025-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2025-08-16/</loc>
+    <loc>http://localhost:1313/farsi/posts/2025-08-16/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2025-08-16/</loc>
+    <loc>http://localhost:1313/posts/2025-08-16/</loc>
     <lastmod>2025-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/articles/2025-02-09/</loc>
+    <loc>http://localhost:1313/articles/2025-02-09/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/articles/2025-02-09/</loc>
+    <loc>http://localhost:1313/farsi/articles/2025-02-09/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/articles/</loc>
+    <loc>http://localhost:1313/articles/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/articles/</loc>
+    <loc>http://localhost:1313/farsi/articles/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/books/2025-01-15/</loc>
+    <loc>http://localhost:1313/books/2025-01-15/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/books/2025-01-15/</loc>
+    <loc>http://localhost:1313/farsi/books/2025-01-15/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/tags/%DA%A9%D8%AA%D8%A7%D8%A8/</loc>
+    <loc>http://localhost:1313/tags/%DA%A9%D8%AA%D8%A7%D8%A8/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/books/</loc>
+    <loc>http://localhost:1313/books/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/books/</loc>
+    <loc>http://localhost:1313/farsi/books/</loc>
     <lastmod>2025-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/articles/2025-01-12/</loc>
+    <loc>http://localhost:1313/articles/2025-01-12/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/articles/2025-01-12/</loc>
+    <loc>http://localhost:1313/farsi/articles/2025-01-12/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2025-01-01/</loc>
+    <loc>http://localhost:1313/farsi/posts/2025-01-01/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2025-01-01/</loc>
+    <loc>http://localhost:1313/posts/2025-01-01/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/articles/2024-12-31/</loc>
+    <loc>http://localhost:1313/articles/2024-12-31/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/articles/2024-12-31/</loc>
+    <loc>http://localhost:1313/farsi/articles/2024-12-31/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2024-11-18/</loc>
+    <loc>http://localhost:1313/farsi/posts/2024-11-18/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2024-11-18/</loc>
+    <loc>http://localhost:1313/posts/2024-11-18/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/books/2024-11-13/</loc>
+    <loc>http://localhost:1313/books/2024-11-13/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/books/2024-11-13/</loc>
+    <loc>http://localhost:1313/farsi/books/2024-11-13/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2024-11-05/</loc>
+    <loc>http://localhost:1313/farsi/posts/2024-11-05/</loc>
     <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2024-11-05/</loc>
+    <loc>http://localhost:1313/posts/2024-11-05/</loc>
     <lastmod>2024-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2024-10-28/</loc>
+    <loc>http://localhost:1313/farsi/posts/2024-10-28/</loc>
     <lastmod>2024-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2024-10-28/</loc>
+    <loc>http://localhost:1313/posts/2024-10-28/</loc>
     <lastmod>2024-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/articles/2024-10-24/</loc>
+    <loc>http://localhost:1313/articles/2024-10-24/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/articles/2024-10-24/</loc>
+    <loc>http://localhost:1313/farsi/articles/2024-10-24/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2024-10-16/</loc>
+    <loc>http://localhost:1313/farsi/posts/2024-10-16/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2024-10-16/</loc>
+    <loc>http://localhost:1313/posts/2024-10-16/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2024-10-12/</loc>
+    <loc>http://localhost:1313/farsi/posts/2024-10-12/</loc>
     <lastmod>2024-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2024-10-12/</loc>
+    <loc>http://localhost:1313/posts/2024-10-12/</loc>
     <lastmod>2024-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2024-09-18/</loc>
+    <loc>http://localhost:1313/farsi/posts/2024-09-18/</loc>
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2024-09-18/</loc>
+    <loc>http://localhost:1313/posts/2024-09-18/</loc>
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/articles/2024-09-18/</loc>
+    <loc>http://localhost:1313/articles/2024-09-18/</loc>
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/articles/2024-09-18/</loc>
+    <loc>http://localhost:1313/farsi/articles/2024-09-18/</loc>
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/tags/%D8%AA%D8%B1%DA%A9%DB%8C/</loc>
+    <loc>http://localhost:1313/tags/%D8%AA%D8%B1%DA%A9%DB%8C/</loc>
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/tags/%D8%AD%D8%B3%DB%8C%D9%86%D9%82%D9%84%DB%8C-%D8%AE%D8%A7%D9%86-%D8%A7%D9%85%D8%A7%D9%86-%D8%A8%D9%86%DB%8C/</loc>
+    <loc>http://localhost:1313/tags/%D8%AD%D8%B3%DB%8C%D9%86%D9%82%D9%84%DB%8C-%D8%AE%D8%A7%D9%86-%D8%A7%D9%85%D8%A7%D9%86-%D8%A8%D9%86%DB%8C/</loc>
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/gallery/</loc>
+    <loc>http://localhost:1313/farsi/gallery/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/gallery/</loc>
+    <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/tags/%D8%B9%DA%A9%D8%B3/</loc>
+    <loc>http://localhost:1313/tags/%D8%B9%DA%A9%D8%B3/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/gallery/2024-08-28/</loc>
+    <loc>http://localhost:1313/farsi/gallery/2024-08-28/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/gallery/2024-08-28/</loc>
+    <loc>http://localhost:1313/gallery/2024-08-28/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/gallery/2024-08-27/</loc>
+    <loc>http://localhost:1313/farsi/gallery/2024-08-27/</loc>
     <lastmod>2024-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/gallery/2024-08-27/</loc>
+    <loc>http://localhost:1313/gallery/2024-08-27/</loc>
     <lastmod>2024-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/articles/2024-08-23/</loc>
+    <loc>http://localhost:1313/articles/2024-08-23/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/articles/2024-08-23/</loc>
+    <loc>http://localhost:1313/farsi/articles/2024-08-23/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/articles/2024-08-22/</loc>
+    <loc>http://localhost:1313/articles/2024-08-22/</loc>
     <lastmod>2024-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/articles/2024-08-22/</loc>
+    <loc>http://localhost:1313/farsi/articles/2024-08-22/</loc>
     <lastmod>2024-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/culture/pendarben/</loc>
+    <loc>http://localhost:1313/culture/pendarben/</loc>
     <lastmod>2024-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/culture/pendarben/</loc>
+    <loc>http://localhost:1313/farsi/culture/pendarben/</loc>
     <lastmod>2024-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/culture/</loc>
+    <loc>http://localhost:1313/culture/</loc>
     <lastmod>2024-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/culture/</loc>
+    <loc>http://localhost:1313/farsi/culture/</loc>
     <lastmod>2024-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/culture/binushaqlari/</loc>
+    <loc>http://localhost:1313/culture/binushaqlari/</loc>
     <lastmod>2024-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/culture/binushaqlari/</loc>
+    <loc>http://localhost:1313/farsi/culture/binushaqlari/</loc>
     <lastmod>2024-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/books/2024-08-19/</loc>
+    <loc>http://localhost:1313/books/2024-08-19/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/books/2024-08-19/</loc>
+    <loc>http://localhost:1313/farsi/books/2024-08-19/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/figures/</loc>
+    <loc>http://localhost:1313/farsi/figures/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/figures/</loc>
+    <loc>http://localhost:1313/figures/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/figures/hoseingholi_khan_aman/</loc>
+    <loc>http://localhost:1313/farsi/figures/hoseingholi_khan_aman/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/figures/hoseingholi_khan_aman/</loc>
+    <loc>http://localhost:1313/figures/hoseingholi_khan_aman/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/tags/%D9%85%DB%8C%D8%B1%D8%B2%D8%A7-%D8%AD%D8%A8%DB%8C%D8%A8-%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%86%DB%8C/</loc>
+    <loc>http://localhost:1313/tags/%D9%85%DB%8C%D8%B1%D8%B2%D8%A7-%D8%AD%D8%A8%DB%8C%D8%A8-%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%86%DB%8C/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/figures/mirzahabib/</loc>
+    <loc>http://localhost:1313/farsi/figures/mirzahabib/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/figures/mirzahabib/</loc>
+    <loc>http://localhost:1313/figures/mirzahabib/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2024-07-29/</loc>
+    <loc>http://localhost:1313/farsi/posts/2024-07-29/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2024-07-29/</loc>
+    <loc>http://localhost:1313/posts/2024-07-29/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2024-07-28/</loc>
+    <loc>http://localhost:1313/farsi/posts/2024-07-28/</loc>
     <lastmod>2024-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2024-07-28/</loc>
+    <loc>http://localhost:1313/posts/2024-07-28/</loc>
     <lastmod>2024-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2024-07-25/</loc>
+    <loc>http://localhost:1313/farsi/posts/2024-07-25/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2024-07-25/</loc>
+    <loc>http://localhost:1313/posts/2024-07-25/</loc>
     <lastmod>2024-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/posts/2024-07-07/</loc>
+    <loc>http://localhost:1313/farsi/posts/2024-07-07/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/posts/2024-07-07/</loc>
+    <loc>http://localhost:1313/posts/2024-07-07/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/gallery/2024-04-28/</loc>
+    <loc>http://localhost:1313/farsi/gallery/2024-04-28/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/gallery/2024-04-28/</loc>
+    <loc>http://localhost:1313/gallery/2024-04-28/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/english/</loc>
+    <loc>http://localhost:1313/english/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:42545/en/contact/"
+                href="http://localhost:1313/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:42545/contact/"
+                href="http://localhost:1313/contact/"
                 />
   </url><url>
-    <loc>http://localhost:42545/farsi/contact/</loc>
+    <loc>http://localhost:1313/farsi/contact/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/english/contact/</loc>
+    <loc>http://localhost:1313/english/contact/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/books/mirzahabib/</loc>
+    <loc>http://localhost:1313/books/mirzahabib/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/books/mirzahabib/</loc>
+    <loc>http://localhost:1313/farsi/books/mirzahabib/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:42545/en/about/"
+                href="http://localhost:1313/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:42545/about/"
+                href="http://localhost:1313/about/"
                 />
   </url><url>
-    <loc>http://localhost:42545/farsi/about/</loc>
+    <loc>http://localhost:1313/farsi/about/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/books/sokutam_ra_tamasha_kon/</loc>
+    <loc>http://localhost:1313/books/sokutam_ra_tamasha_kon/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/books/sokutam_ra_tamasha_kon/</loc>
+    <loc>http://localhost:1313/farsi/books/sokutam_ra_tamasha_kon/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/books/2023-01-24/</loc>
+    <loc>http://localhost:1313/books/2023-01-24/</loc>
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/books/2023-01-24/</loc>
+    <loc>http://localhost:1313/farsi/books/2023-01-24/</loc>
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/books/2022-08-23/</loc>
+    <loc>http://localhost:1313/books/2022-08-23/</loc>
     <lastmod>2022-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/books/2022-08-23/</loc>
+    <loc>http://localhost:1313/farsi/books/2022-08-23/</loc>
     <lastmod>2022-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/english/awards/</loc>
+    <loc>http://localhost:1313/english/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/books/2022-01-03/</loc>
+    <loc>http://localhost:1313/books/2022-01-03/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/books/2022-01-03/</loc>
+    <loc>http://localhost:1313/farsi/books/2022-01-03/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/books/2021-07-25/</loc>
+    <loc>http://localhost:1313/books/2021-07-25/</loc>
     <lastmod>2021-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/books/2021-07-25/</loc>
+    <loc>http://localhost:1313/farsi/books/2021-07-25/</loc>
     <lastmod>2021-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/english/archives/</loc>
+    <loc>http://localhost:1313/english/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:42545/en/archives/"
+                href="http://localhost:1313/en/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:42545/archives/"
+                href="http://localhost:1313/archives/"
                 />
   </url><url>
-    <loc>http://localhost:42545/farsi/archives/</loc>
+    <loc>http://localhost:1313/farsi/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/gallery/2018-10-30/</loc>
+    <loc>http://localhost:1313/farsi/gallery/2018-10-30/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/gallery/2018-10-30/</loc>
+    <loc>http://localhost:1313/gallery/2018-10-30/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/gallery/2018-10-29/</loc>
+    <loc>http://localhost:1313/farsi/gallery/2018-10-29/</loc>
     <lastmod>2018-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/gallery/2018-10-29/</loc>
+    <loc>http://localhost:1313/gallery/2018-10-29/</loc>
     <lastmod>2018-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/gallery/2018-10-28/</loc>
+    <loc>http://localhost:1313/farsi/gallery/2018-10-28/</loc>
     <lastmod>2018-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/gallery/2018-10-28/</loc>
+    <loc>http://localhost:1313/gallery/2018-10-28/</loc>
     <lastmod>2018-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/gallery/2017-06-12/</loc>
+    <loc>http://localhost:1313/farsi/gallery/2017-06-12/</loc>
     <lastmod>2017-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/gallery/2017-06-12/</loc>
+    <loc>http://localhost:1313/gallery/2017-06-12/</loc>
     <lastmod>2017-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/books/hajibabayeesfahani/</loc>
+    <loc>http://localhost:1313/books/hajibabayeesfahani/</loc>
     <lastmod>1865-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/farsi/books/hajibabayeesfahani/</loc>
+    <loc>http://localhost:1313/farsi/books/hajibabayeesfahani/</loc>
     <lastmod>1865-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:42545/english/about/</loc>
+    <loc>http://localhost:1313/english/about/</loc>
   </url><url>
-    <loc>http://localhost:42545/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:42545/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:42545/tr/categories/"
+                href="http://localhost:1313/tr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:42545/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:42545/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:42545/en/series/"
+                href="http://localhost:1313/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:42545/tr/series/"
+                href="http://localhost:1313/tr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:42545/series/"
+                href="http://localhost:1313/series/"
                 />
   </url>
 </urlset>

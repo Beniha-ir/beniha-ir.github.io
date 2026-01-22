@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>تصاویر on شهر بن</title>
-    <link>http://localhost:42545/gallery/</link>
+    <link>http://localhost:1313/gallery/</link>
     <description>Recent content in تصاویر on شهر بن</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
-    <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:42545/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>عکس: برف</title>
-      <link>http://localhost:42545/gallery/2024-08-28/</link>
+      <link>http://localhost:1313/gallery/2024-08-28/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:42545/gallery/2024-08-28/</guid>
+      <guid>http://localhost:1313/gallery/2024-08-28/</guid>
       
         <description> </description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>عکس: باغات دراز دره</title>
-      <link>http://localhost:42545/gallery/2024-08-27/</link>
+      <link>http://localhost:1313/gallery/2024-08-27/</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:42545/gallery/2024-08-27/</guid>
+      <guid>http://localhost:1313/gallery/2024-08-27/</guid>
       
         <description> </description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>نمای شهر بن از بالای کوه افغان</title>
-      <link>http://localhost:42545/gallery/2024-04-28/</link>
+      <link>http://localhost:1313/gallery/2024-04-28/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:42545/gallery/2024-04-28/</guid>
+      <guid>http://localhost:1313/gallery/2024-04-28/</guid>
       
         <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>عکس: امام زاده باباپیراحمد</title>
-      <link>http://localhost:42545/gallery/2018-10-30/</link>
+      <link>http://localhost:1313/gallery/2018-10-30/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:42545/gallery/2018-10-30/</guid>
+      <guid>http://localhost:1313/gallery/2018-10-30/</guid>
       
         <description> </description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>منظره کوه بن از دور</title>
-      <link>http://localhost:42545/gallery/2018-10-29/</link>
+      <link>http://localhost:1313/gallery/2018-10-29/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:42545/gallery/2018-10-29/</guid>
+      <guid>http://localhost:1313/gallery/2018-10-29/</guid>
       
         <description> </description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>عکس: گرداب بِن</title>
-      <link>http://localhost:42545/gallery/2018-10-28/</link>
+      <link>http://localhost:1313/gallery/2018-10-28/</link>
       <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:42545/gallery/2018-10-28/</guid>
+      <guid>http://localhost:1313/gallery/2018-10-28/</guid>
       
         <description> </description>
       
@@ -75,10 +75,10 @@
     
     <item>
       <title>عکس: پل های تاریخی</title>
-      <link>http://localhost:42545/gallery/2017-06-12/</link>
+      <link>http://localhost:1313/gallery/2017-06-12/</link>
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:42545/gallery/2017-06-12/</guid>
+      <guid>http://localhost:1313/gallery/2017-06-12/</guid>
       
         <description> </description>
       

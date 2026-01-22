@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>گروه های فعال فرهنگی - هنری on شهر بن</title>
-    <link>http://localhost:42545/culture/</link>
+    <link>http://localhost:1313/culture/</link>
     <description>Recent content in گروه های فعال فرهنگی - هنری on شهر بن</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
-    <lastBuildDate>Thu, 22 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:42545/culture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/culture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>گروه فرهنگی کتابخوان پندار</title>
-      <link>http://localhost:42545/culture/pendarben/</link>
+      <link>http://localhost:1313/culture/pendarben/</link>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:42545/culture/pendarben/</guid>
+      <guid>http://localhost:1313/culture/pendarben/</guid>
       
         <description>گروه کتابخوان پندار با هدف کتابخوانی و هم اندیشی در مورد موضوعات مختلف زیر نظر کتابخانه عمومی شهدا بن تشکیل شده است.</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>گروه هنری بین اوشاخلاری | بچه های  شهر بِن</title>
-      <link>http://localhost:42545/culture/binushaqlari/</link>
+      <link>http://localhost:1313/culture/binushaqlari/</link>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:42545/culture/binushaqlari/</guid>
+      <guid>http://localhost:1313/culture/binushaqlari/</guid>
       
         <description>گروه بین اوشاخلاری (بچه های شهر بِن) گروهی از علاقه مندان به ادبیات، ریاضیات و برنامه نویسی هستند که با بهره گیری از هوش مصنوعی به عنوان یک ابزار نو، به خلق آثار هنری می پردازند.</description>
       

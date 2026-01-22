@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>میرزا حبیب دستان بنی on شهر بن</title>
-    <link>http://localhost:42545/tags/%D9%85%DB%8C%D8%B1%D8%B2%D8%A7-%D8%AD%D8%A8%DB%8C%D8%A8-%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%86%DB%8C/</link>
+    <link>http://localhost:1313/tags/%D9%85%DB%8C%D8%B1%D8%B2%D8%A7-%D8%AD%D8%A8%DB%8C%D8%A8-%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%86%DB%8C/</link>
     <description>Recent content in میرزا حبیب دستان بنی on شهر بن</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
-    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:42545/tags/%D9%85%DB%8C%D8%B1%D8%B2%D8%A7-%D8%AD%D8%A8%DB%8C%D8%A8-%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%86%DB%8C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%D9%85%DB%8C%D8%B1%D8%B2%D8%A7-%D8%AD%D8%A8%DB%8C%D8%A8-%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D9%86%DB%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>میرزا حبیب دستان بنی</title>
-      <link>http://localhost:42545/farsi/figures/mirzahabib/</link>
+      <link>http://localhost:1313/farsi/figures/mirzahabib/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:42545/farsi/figures/mirzahabib/</guid>
+      <guid>http://localhost:1313/farsi/figures/mirzahabib/</guid>
       
         <description>میرزا حبیب دستان بنی (۱۲۱۴ – ۱۲۷۲ هـ.</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>میرزا حبیب دستان بنی</title>
-      <link>http://localhost:42545/figures/mirzahabib/</link>
+      <link>http://localhost:1313/figures/mirzahabib/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:42545/figures/mirzahabib/</guid>
+      <guid>http://localhost:1313/figures/mirzahabib/</guid>
       
         <description>میرزا حبیب دستان بنی (۱۲۱۴ – ۱۲۷۲ هـ.</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>برش دینی زندگی میرزاحبیب دستان بنی</title>
-      <link>http://localhost:42545/books/mirzahabib/</link>
+      <link>http://localhost:1313/books/mirzahabib/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:42545/books/mirzahabib/</guid>
+      <guid>http://localhost:1313/books/mirzahabib/</guid>
       
         <description>آقای علی‌اصغر حیدری بنی، شاعر و پژوهشگر استان چهارمحال و بختیاری، با تألیف آثاری متعدد به معرفی زندگی، آثار و ابعاد دینی میرزا حبیب پرداخته و تلاش کرده تا جنبه‌های کمتر مورد توجه قرار گرفته وی را بازنمایی کند.</description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>برش دینی زندگی میرزاحبیب دستان بنی</title>
-      <link>http://localhost:42545/farsi/books/mirzahabib/</link>
+      <link>http://localhost:1313/farsi/books/mirzahabib/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:42545/farsi/books/mirzahabib/</guid>
+      <guid>http://localhost:1313/farsi/books/mirzahabib/</guid>
       
         <description>آقای علی‌اصغر حیدری بنی، شاعر و پژوهشگر استان چهارمحال و بختیاری، با تألیف آثاری متعدد به معرفی زندگی، آثار و ابعاد دینی میرزا حبیب پرداخته و تلاش کرده تا جنبه‌های کمتر مورد توجه قرار گرفته وی را بازنمایی کند.</description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>سرگذشت حاجی بابای اصفهانی</title>
-      <link>http://localhost:42545/books/hajibabayeesfahani/</link>
+      <link>http://localhost:1313/books/hajibabayeesfahani/</link>
       <pubDate>Sun, 01 Jan 1865 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:42545/books/hajibabayeesfahani/</guid>
+      <guid>http://localhost:1313/books/hajibabayeesfahani/</guid>
       
         <description>ترجمه میرزا حبیب</description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>سرگذشت حاجی بابای اصفهانی</title>
-      <link>http://localhost:42545/farsi/books/hajibabayeesfahani/</link>
+      <link>http://localhost:1313/farsi/books/hajibabayeesfahani/</link>
       <pubDate>Sun, 01 Jan 1865 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:42545/farsi/books/hajibabayeesfahani/</guid>
+      <guid>http://localhost:1313/farsi/books/hajibabayeesfahani/</guid>
       
         <description>ترجمه میرزا حبیب</description>
       
