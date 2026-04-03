@@ -2,7 +2,10 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 Description: ""
-Tags: []
 Categories: []
-DisableComments: false
+featured_image: "/images/articles/{{ .Date }}.jpg"
+author: ""
+tags:
+  - 
+
 ---
