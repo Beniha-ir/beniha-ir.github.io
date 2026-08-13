@@ -2,7 +2,7 @@
 title: 'گروه هنری بین اوشاخلاری | بچه های  شهر بِن'
 date: 2024-08-22
 permalink: /binusaqlari.htmll
-featured_image: "/images/culture/binushaqlari.png"
+featured_image: "/images/culture/binushaqlari.webp"
 
 aliases:
   - "/binusaqlari.html"

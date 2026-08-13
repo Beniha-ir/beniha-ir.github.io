@@ -2,7 +2,7 @@
 title: 'گروه فرهنگی کتابخوان پندار'
 date: 2024-08-22
 permalink: /culture/pendarben
-featured_image: "/images/culture/Pendar_Ben.jpg"
+featured_image: "/images/culture/Pendar_Ben.webp"
 ---
 
 
@@ -22,4 +22,4 @@ featured_image: "/images/culture/Pendar_Ben.jpg"
 <p style="text-align:right;">&nbsp;</p>
 
 
-<img src="/images/culture/pendareben.jpg" alt="پندار" />
+<img src="/images/culture/pendareben.webp" alt="پندار" />

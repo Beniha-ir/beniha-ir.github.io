@@ -2,7 +2,7 @@
 title: "سرگذشت حاجی بابای اصفهانی"
 date: 1865-01-01
 permalink: /books/HajiBabayeEsfahani
-featured_image: "/images/books/HajiBabayeEsfahani.png"
+featured_image: "/images/books/HajiBabayeEsfahani.webp"
 author: "میرزا حبیب دستان بنی"
 tags:
     - میرزا حبیب دستان بنی

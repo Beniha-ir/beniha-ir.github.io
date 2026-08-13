@@ -2,7 +2,7 @@
 title: 'میرزا حبیب دستان بنی'
 date: 2024-08-01
 permalink: /MirzaHabib
-featured_image: "/images/figures/MirzaHabib.jpg"
+featured_image: "/images/figures/MirzaHabib.webp"
 
 tags:
     - میرزا حبیب دستان بنی

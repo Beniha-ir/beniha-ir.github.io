@@ -3,7 +3,7 @@ title: 'حسینقلی خان امان بنی'
 date: 2024-08-01
 permalink: "/Hoseingholi_Khan_Aman_Beni.html"
 
-featured_image: "/images/figures/Hoseingholi_Khan_Aman.png"
+featured_image: "/images/figures/Hoseingholi_Khan_Aman.webp"
 
 tags:
   - حسینقلی خان امان بنی
